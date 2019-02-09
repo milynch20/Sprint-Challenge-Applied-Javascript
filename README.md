@@ -32,13 +32,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+    It is a progamming interface for HTML. It reps the HTML as a tree structure, in which each node is an object representing a part of the document. 
+
 2. What is an event?
+
+    An event is the triggering of an action that a user does on a webpage. 
 
 3. What is an event listener?
 
+    It's a method that uses method(callback) for a selected element. 
+
 4. Why would we convert a NodeList into an Array?
 
+    So that array methods can be used. 
+
 5. What is a component?
+
+    It is a modular set of information. 
 
 ### Git Set up
 
